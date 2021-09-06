@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="M_Test_Key_01">Hello, this sample file is only for Memsource Demo Use.</string>
+    <string name="M_Test_Key_02">Awesome. Nice job. This really helps! Need anything new? I have all of them! I don\u0026apos;t need them.</string>
+    <string name="M_Test_Key_03">The game is a survival shooter game available on mobile.</string>
+    <string name="M_Test_Key_game_content_01">New Season starts 03/08/2020 18:00 GMT+8</string>
+    <string name="M_Test_Key_game_content_02">Oh it is... [FFC500]for Test![-]</string>
+</resources>
