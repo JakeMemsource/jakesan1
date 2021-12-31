@@ -1,0 +1,18 @@
+phrase:
+  access_token: "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"
+  
+  project_id: "80761a980dd2fcfb6b94827c5c46347e"
+
+  file_format: "xml"
+
+  push:
+
+    sources:
+
+    - file: "./Sample_<locale_code>.xml"
+
+  pull:
+
+    targets:
+
+    - file: "./Sample_<locale_code>.xml"
