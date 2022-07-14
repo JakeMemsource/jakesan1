@@ -6,5 +6,6 @@
     <string name="M_Test_Key_game_content_01">A great new Season starts 03/08/2020 18:00 GMT+8</string>
     <string name="M_Test_Key_game_content_02">Yes, it does! [FFC500]for Test![-]</string>
     <string name="M_Test_Key_game_content_03">Additional key and message.</string>
-    <string name="M_Test_Key_game_content_04">More message!!!!!!!!</string>
+    <string name="M_Test_Key_game_content_04">More message</string>
+    <string name="M_Test_Key_game_content_05">One more key is added</string>
 </resources>
