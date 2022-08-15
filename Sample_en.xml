@@ -12,4 +12,7 @@
     <string name="M_Test_Key_game_content_06">The newest key.</string>
     <string name="Memsource logo">MEMSOURCE</string>
     <string name="M_Test_Key_game_content_06">The newest key.</string>
+    <string name="Login">Email</string>
+    <string name="pwd">Password</string>
+    <string name="Start">GetStarted</string>
 </resources>
