@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <string name="Login">メールアドレス</string>
     <string name="M_Test_Key_01">こんにちは、このサンプルファイルはMemsourceデモ用のみです。</string>
     <string name="M_Test_Key_02">すごい。素敵な仕事。これは本当に役立ちます!何か新しいものが必要ですか?私はそれらのすべてを持っています!私はそれらを必要としません。</string>
     <string name="M_Test_Key_03">ゲームは、モバイルで利用可能なサバイバルシューティングゲームです。</string>
@@ -11,4 +12,6 @@
     <string name="M_Test_Key_game_content_05">キーが1つ追加されます</string>
     <string name="M_Test_Key_game_content_06">これは最新キー。</string>
     <string name="Memsource logo">メムソース</string>
+    <string name="pwd">パスワード</string>
+    <string name="Start">スタート</string>
 </resources>
