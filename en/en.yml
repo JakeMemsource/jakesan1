@@ -1,11 +1,11 @@
 # COMMON
-COMMON_INVALID_DATE: 'Invalid date'
+COMMON_INVALID_DATE: 'Invalid date CHANGED'
 COMMON_BUTTON_CANCEL: 'Cancel'
 COMMON_BUTTON_CLOSE: 'Close'
 COMMON_BUTTON_SAVE: 'Save'
-COMMON_BUTTON_SAVING: 'Saving...'
+COMMON_BUTTON_SAVING: 'Saving... REVISING'
 COMMON_BUTTON_UPDATING: 'Updating...'
-COMMON_BUTTON_DONE: 'Done'
+COMMON_BUTTON_DONE: 'Done CHANGED'
 COMMON_BUTTON_CREATE_NEW: 'Create new'
 COMMON_BUTTON_CREATE: 'Create'
 COMMON_BUTTON_CREATING: 'Creating...'
@@ -22,6 +22,7 @@ UNKNOWN: 'Unknown'
 USER_TYPE_ROLE: 'Role'
 USER_TYPE_COMPANY: 'Company'
 USER_TYPE_USER: 'Member'
+New_key: '12345 Good morning'
 
 # TablePagination
 TABLE_PAGINATION_SHOWING: "Showing {pageStartIndex} - {pageEndIndex} of {total}"
