@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"[]>
 <?ish ishref="GUID-98BEC329-52A1-48D1-A746-D5E448CB2FC4" version="1" lang="en"?><concept id="GUID-98BEC329-52A1-48D1-A746-D5E448CB2FC4" xml:lang="en"> 
-  <title id="GUID-B8D62F75-BD2B-4A6A-B34E-8E3B6E524611">ビューをシートに合わせて移動</title> 
-  <shortdesc cid="whE5C">その他の更新 123 新しい更新 あるシートに配置されたビューをモデル内の別のシートに移動します。{$1}移動したビューは、ターゲット シートの同じ位置に配置されます。
+  <title id="GUID-B8D62F75-BD2B-4A6A-B34E-8E3B6E524611">シートに合わせてビューを移動</title> 
+  <shortdesc cid="whE5C">その他の更新 123 新しい更新あるシートに配置されたビューをモデル内の別のシートに移動します。{$1}移動されたビューは、ターゲットシート上の同じ位置に配置されます。
   </shortdesc> 
   <prolog cid="22n0UK"> 
 	 <metadata> 
 		<audience experiencelevel="general" job="using" type="user" /> 
 		<keywords> 
-		  <indexterm>シート</indexterm><indexterm>ビュー</indexterm><indexterm>ドキュメンテーション</indexterm></keywords> 
-		<othermeta name="release-details" content="2023.1" /><othermeta name="grid-item" content="カード"/><othermeta name="card-filter" content="discipline-platform"/><othermeta name="card-filter" content="ドキュメンテーション"/><othermeta name="card-filter" content="生産性"/><othermeta name="post-alt-title" content="(2023.1 の新機能)"/></metadata>
+		  <indexterm>シート</indexterm><indexterm>景色</indexterm><indexterm>ドキュメンテーション</indexterm></keywords> 
+		<othermeta name="release-details" content="2023.1" /><othermeta name="grid-item" content="カード"/><othermeta name="card-filter" content="discipline-platform"/><othermeta name="card-filter" content="ドキュメンテーション"/><othermeta name="card-filter" content="生産性"/><othermeta name="post-alt-title" content="(2023.1年の新着情報)"/></metadata>
   </prolog> 
   <conbody cid="1jKKEi"> 
 	 <fig id="FIG_39A9B08CC1954E43A246BF1B1733A818" outputclass="card-thumbnail"> 
@@ -17,11 +17,11 @@
 		  <alt cid="dBjPF"> 
 		  </alt></image> 
 	 </fig> 
-	 <p cid="10KtPb">{x}シートに配置されたビューは、モデル内の別のシートに移動できます。ビューを選択し、右クリックしてビューを移動します。ビューを移動すると、ターゲット シートの同じ位置に配置されます。一度に複数のビューを移動するには、シートで複数のビューを選択します。複数のシートに配置されたビューは、プロジェクト ブラウザから選択して、1 つのターゲット シートに移動できます。
+	 <p cid="10KtPb">{%value}シートに配置されたビューは、モデル内の別のシートに移動できます。{$2}ビューを選択し、右クリックしてビューを移動します。ビューを移動すると、ターゲットシート上の同じ位置に位置合わせされます。シート上の複数のビューを選択すると、一度に複数のビューを移動できます。複数のシートに配置されたビューは、プロジェクトブラウザから選択して 1 つのターゲットシートに移動できます。
 	 </p> 
-	 <p cid="1ZXrzu">ターゲット シートを選択するときは、ダイアログの検索ツールを使用してターゲット シートを見つけます。
+	 <p cid="1ZXrzu">ターゲットシートを選択するときは、ダイアログの検索ツールを使ってターゲットシートを探してください。
 	 </p> 
-	 <p cid="1o3Ko7">詳細については、 <xref href="GUID-E195EDD8-3C73-4601-AD1D-BCDF720770BD" cid="8N8M0">ビューをシートに合わせて移動する を</xref>参照してください。
+	 <p cid="1o3Ko7">詳細については、「<xref href="GUID-E195EDD8-3C73-4601-AD1D-BCDF720770BD" cid="8N8M0">シートに合わせてビューを移動</xref>」を参照してください。
 	 </p> 
   </conbody> 
 </concept> 
