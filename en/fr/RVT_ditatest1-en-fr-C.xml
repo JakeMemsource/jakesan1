@@ -17,7 +17,7 @@
 		  <alt cid="dBjPF"> 
 		  </alt></image> 
 	 </fig> 
-	 <p cid="10KtPb">{x}Les vues placées sur une feuille peuvent être déplacées vers une autre feuille du modèle. Sélectionnez une vue, puis cliquez avec le bouton droit pour déplacer la vue. Lorsque la vue est déplacée, elle est alignée à la même position sur la feuille cible. Sélectionnez plusieurs vues sur une feuille pour déplacer plusieurs vues à la fois. Les vues placées sur plusieurs feuilles peuvent être sélectionnées dans le navigateur de projets, puis déplacées vers une feuille cible. 
+	 <p cid="10KtPb">{%value}Les vues placées sur une feuille peuvent être déplacées vers une autre feuille du modèle. {$2}Sélectionnez une vue, puis cliquez avec le bouton droit pour déplacer la vue. Lorsque la vue est déplacée, elle est alignée à la même position sur la feuille cible. Sélectionnez plusieurs vues sur une feuille pour déplacer plusieurs vues à la fois. Les vues placées sur plusieurs feuilles peuvent être sélectionnées dans le navigateur de projets, puis déplacées vers une feuille cible. 
 	 </p> 
 	 <p cid="1ZXrzu">Lorsque vous sélectionnez une feuille cible, utilisez l'outil de recherche dans la boîte de dialogue pour vous aider à localiser la feuille cible. 
 	 </p> 
