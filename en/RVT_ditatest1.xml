@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"[]>
 <?ish ishref="GUID-98BEC329-52A1-48D1-A746-D5E448CB2FC4" version="1" lang="en"?><concept id="GUID-98BEC329-52A1-48D1-A746-D5E448CB2FC4" xml:lang="en"> 
   <title id="GUID-B8D62F75-BD2B-4A6A-B34E-8E3B6E524611">Move Views Aligned to Sheet</title> 
-  <shortdesc cid="whE5C">More updates 123 New update Move views placed on one sheet to another sheet in the model. Views moved are aligned in the same position on the target sheet. 
+  <shortdesc cid="whE5C">More updates 123 New update Move views placed on one sheet to another sheet in the model.{$1} Views moved are aligned in the same position on the target sheet. 
   </shortdesc> 
   <prolog cid="22n0UK"> 
 	 <metadata> 
@@ -17,7 +17,7 @@
 		  <alt cid="dBjPF"> 
 		  </alt></image> 
 	 </fig> 
-	 <p cid="10KtPb">Views placed on a sheet can be moved to another sheet in the model. Select a view and then right-click to move the view. When the view is moved, it is aligned to the same position on the target sheet. Select multiple views on a sheet to move more than one view at a time. Views placed on multiple sheets can be selected from the Project Browser and then moved to one target sheet. 
+	 <p cid="10KtPb">{x}Views placed on a sheet can be moved to another sheet in the model. Select a view and then right-click to move the view. When the view is moved, it is aligned to the same position on the target sheet. Select multiple views on a sheet to move more than one view at a time. Views placed on multiple sheets can be selected from the Project Browser and then moved to one target sheet. 
 	 </p> 
 	 <p cid="1ZXrzu">When selecting a target sheet, use the search tool in the dialog to help locate the target sheet. 
 	 </p> 
