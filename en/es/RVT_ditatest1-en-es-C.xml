@@ -17,7 +17,7 @@
 		  <alt cid="dBjPF"> 
 		  </alt></image> 
 	 </fig> 
-	 <p cid="10KtPb">{x}Las vistas colocadas en una hoja se pueden mover a otra hoja del modelo. Seleccione una vista y luego haga clic derecho para mover la vista. Cuando la vista se mueve, se alinea a la misma posición en la hoja de destino. Seleccione varias vistas en una hoja para mover más de una vista a la vez. Las vistas colocadas en varias hojas se pueden seleccionar desde el Explorador de proyectos y luego mover a una hoja de destino. 
+	 <p cid="10KtPb">{%value}Las vistas colocadas en una hoja se pueden mover a otra hoja del modelo. {$2}Seleccione una vista y luego haga clic derecho para mover la vista. Cuando la vista se mueve, se alinea a la misma posición en la hoja de destino. Seleccione varias vistas en una hoja para mover más de una vista a la vez. Las vistas colocadas en varias hojas se pueden seleccionar desde el Explorador de proyectos y luego mover a una hoja de destino. 
 	 </p> 
 	 <p cid="1ZXrzu">Al seleccionar una hoja de destino, utilice la herramienta de búsqueda del cuadro de diálogo para ayudar a localizar la hoja de destino. 
 	 </p> 
