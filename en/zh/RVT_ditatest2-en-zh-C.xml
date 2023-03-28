@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"[]>
 <?ish ishref="GUID-98BEC329-52A1-48D1-A746-D5E448CB2FC4" version="1" lang="en"?><concept id="GUID-98BEC329-52A1-48D1-A746-D5E448CB2FC4" xml:lang="en"> 
-  <title id="GUID-B8D62F75-BD2B-4A6A-B34E-8E3B6E524611">将视图对齐到 Sheet_New 更新</title> 
-  <shortdesc cid="whE5C"> 将放置在一张图纸上的视图移动到模型中的另一张图纸上。在此处更新 123 移动的视图在目标工作表上的相同位置对齐。
+  <title id="GUID-B8D62F75-BD2B-4A6A-B34E-8E3B6E524611">移动视图对齐以Sheet_New更新</title> 
+  <shortdesc cid="whE5C"> 将放置在一个图纸上的视图移动到模型中的另一个图纸。在此处 {$A} 更新 移动的视图在目标工作表上的相同位置对齐。
   </shortdesc> 
   <prolog cid="22n0UK"> 
 	 <metadata> 
 		<audience experiencelevel="general" job="using" type="user" /> 
 		<keywords> 
-		  <indexterm>床单</indexterm><indexterm>观点</indexterm><indexterm>文档</indexterm></keywords> 
-		<othermeta name="release-details" content="2023.1" /><othermeta name="grid-item" content="卡片"/><othermeta name="card-filter" content="discipline-platform"/><othermeta name="card-filter" content="文档"/><othermeta name="card-filter" content="productivity"/><othermeta name="post-alt-title" content="（2023.1 新增功能）"/></metadata>
+		  <indexterm>床单</indexterm><indexterm>视图</indexterm><indexterm>文档</indexterm></keywords> 
+		<othermeta name="release-details" content="2023.1" /><othermeta name="grid-item" content="卡"/><othermeta name="card-filter" content="discipline-platform"/><othermeta name="card-filter" content="文档"/><othermeta name="card-filter" content="生产力"/><othermeta name="post-alt-title" content="（2023.1 中的新增功能）"/></metadata>
   </prolog> 
   <conbody cid="1jKKEi"> 
 	 <fig id="FIG_39A9B08CC1954E43A246BF1B1733A818" outputclass="card-thumbnail"> 
@@ -17,11 +17,11 @@
 		  <alt cid="dBjPF"> 
 		  </alt></image> 
 	 </fig> 
-	 <p cid="10KtPb">放置在图纸上的视图可以移动到模型中的另一张图纸。选择一个视图，然后右键单击以移动视图。移动视图时，它会与目标工作表上的相同位置对齐。选择工作表上的多个视图以一次移动多个视图。可以从项目浏览器中选择放置在多个工作表上的视图，然后将其移动到一个目标工作表。
+	 <p cid="10KtPb">放置在图纸上的视图可以移动到模型中的另一张图纸。选择一个视图，然后单击鼠标右键以移动该视图。移动视图时，视图将与目标图纸上的相同位置对齐。选择图纸上的多个视图可一次移动多个视图。可以从“项目浏览器”中选择放置在多个图纸上的视图，然后将其移动到一个目标图纸。
 	 </p> 
-	 <p cid="1ZXrzu">选择目标工作表时，使用对话框中的搜索工具帮助找到目标工作表。
+	 <p cid="1ZXrzu">选择目标工作表时，请使用对话框中的搜索工具帮助查找目标工作表。
 	 </p> 
-	 <p cid="1o3Ko7">有关其他信息，请参阅 <xref href="GUID-E195EDD8-3C73-4601-AD1D-BCDF720770BD" cid="8N8M0">移动视图使其与工作表对齐</xref>。
+	 <p cid="1o3Ko7">有关其他信息，请参见 <xref href="GUID-E195EDD8-3C73-4601-AD1D-BCDF720770BD" cid="8N8M0">移动与工作表</xref>对齐的视图。
 	 </p> 
   </conbody> 
 </concept> 
