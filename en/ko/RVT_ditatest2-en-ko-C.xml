@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd"[]>
+<?ish ishref="GUID-98BEC329-52A1-48D1-A746-D5E448CB2FC4" version="1" lang="en"?><concept id="GUID-98BEC329-52A1-48D1-A746-D5E448CB2FC4" xml:lang="en"> 
+  <title id="GUID-B8D62F75-BD2B-4A6A-B34E-8E3B6E524611">시트에 정렬된 뷰 이동</title> 
+  <shortdesc cid="whE5C"> 한 시트에 배치된 뷰를 모델의 다른 시트로 이동합니다. 여기에서 업데이트 123 이동된 뷰가 대상 시트의 동일한 위치에 정렬됩니다. 
+  </shortdesc> 
+  <prolog cid="22n0UK"> 
+	 <metadata> 
+		<audience experiencelevel="general" job="using" type="user" /> 
+		<keywords> 
+		  <indexterm>시트</indexterm><indexterm>조회수</indexterm><indexterm>문서</indexterm></keywords> 
+		<othermeta name="release-details" content="2023.1" /><othermeta name="grid-item" content="카드"/><othermeta name="card-filter" content="discipline-platform"/><othermeta name="card-filter" content="문서"/><othermeta name="card-filter" content="생산성"/><othermeta name="post-alt-title" content="(2023.1의 새로운 기능)"/></metadata>
+  </prolog> 
+  <conbody cid="1jKKEi"> 
+	 <fig id="FIG_39A9B08CC1954E43A246BF1B1733A818" outputclass="card-thumbnail"> 
+		<image href="GUID-B7E0FC9E-7CDB-4152-A046-0DFB9388FA02" outputclass="card-thumbnail" id="IMAGE_BB6804740D8B483F88B2EFF9273A5E5E"> 
+		  <alt cid="dBjPF"> 
+		  </alt></image> 
+	 </fig> 
+	 <p cid="10KtPb">시트에 배치된 뷰는 모델의 다른 시트로 이동할 수 있습니다. 뷰를 선택한 다음 마우스 오른쪽 단추로 클릭하여 뷰를 이동합니다. 뷰를 이동하면 대상 시트의 동일한 위치에 정렬됩니다. 시트에서 여러 뷰를 선택하여 한 번에 두 개 이상의 뷰를 이동합니다. 여러 시트에 배치된 뷰를 프로젝트 브라우저에서 선택한 다음 하나의 대상 시트로 이동할 수 있습니다. 
+	 </p> 
+	 <p cid="1ZXrzu">대상 시트를 선택할 때 대화 상자의 검색 도구를 사용하면 대상 시트를 찾는 데 도움이 됩니다. 
+	 </p> 
+	 <p cid="1o3Ko7">자세한 내용은 <xref href="GUID-E195EDD8-3C73-4601-AD1D-BCDF720770BD" cid="8N8M0">시트에 정렬된 뷰 이동을</xref> 참조하십시오. 
+	 </p> 
+  </conbody> 
+</concept> 
