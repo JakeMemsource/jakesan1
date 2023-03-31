@@ -1,0 +1,19 @@
+en:
+  home:
+    title: "Welcome to MyApp"
+    subtitle: "The best way to manage tasks"
+    call_to_action: "get started"
+    features:
+      - title: "Simple and intuitive interface"
+        description: "MyApp is designed to be easy to use, even for first-time users."
+      - title: "powerful task management"
+        description: "Easily create tasks, organize them, set deadlines, and track progress."
+      - title: "Flexible collaboration"
+        description: "Invite team members to collaborate on tasks and projects with customizable permissions."
+    testimonials:
+      - author: "Yamada Taro"
+        text: "MyApp has completely changed the way our team manages tasks. This is an essential application for modern business."
+      - author: "Hanako Suzuki"
+        text: "I've struggled with task management for years, but with MyApp everything is smoother. Great application."
+      - author: "Kenta Tanaka"
+        text: "MyApp makes us more productive than ever. There is no reason not to use this application."
