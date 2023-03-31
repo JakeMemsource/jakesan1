@@ -1,0 +1,34 @@
+en:
+  user_settings:
+    title: "User Setting"
+    general:
+      title: "General settings"
+      name_label: "name"
+      email_label: "mail address"
+      timezone_label: "Time zone"
+      language_label: "language"
+      save_button: "save"
+    profile:
+      title: "Profile settings"
+      bio_label: "self-introduction"
+      avatar_label: "profile image"
+      social_links_label: "social link"
+      save_button: "save"
+    security:
+      title: "security settings"
+      password_label: "password"
+      password_confirmation_label: "Password confirmation"
+      two_factor_auth_label: "two-factor authentication"
+      save_button: "save"
+    notifications:
+      title: "Notification settings"
+      email_notifications_label: "E-mail notification"
+      push_notifications_label: "Push Notification"
+      frequency_label: "frequency"
+      save_button: "save"
+    billing:
+      title: "Billing settings"
+      plan_label: "plan"
+      payment_method_label: "method of payment"
+      billing_address_label: "Billing Address"
+      save_button: "save"
