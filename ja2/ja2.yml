@@ -1,0 +1,34 @@
+ja:
+  user_settings:
+    title: "ユーザー設定"
+    general:
+      title: "一般設定"
+      name_label: "名前"
+      email_label: "メールアドレス"
+      timezone_label: "タイムゾーン"
+      language_label: "言語"
+      save_button: "保存する"
+    profile:
+      title: "プロフィール設定"
+      bio_label: "自己紹介"
+      avatar_label: "プロフィール画像"
+      social_links_label: "ソーシャルリンク"
+      save_button: "保存する"
+    security:
+      title: "セキュリティ設定"
+      password_label: "パスワード"
+      password_confirmation_label: "パスワード確認"
+      two_factor_auth_label: "二段階認証"
+      save_button: "保存する"
+    notifications:
+      title: "通知設定"
+      email_notifications_label: "メール通知"
+      push_notifications_label: "プッシュ通知"
+      frequency_label: "頻度"
+      save_button: "保存する"
+    billing:
+      title: "課金設定"
+      plan_label: "プラン"
+      payment_method_label: "支払い方法"
+      billing_address_label: "請求先住所"
+      save_button: "保存する"
