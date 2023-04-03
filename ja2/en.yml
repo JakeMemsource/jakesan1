@@ -2,11 +2,11 @@ en:
   user_settings:
     title: "User Settings"
     general:
-      title: "General setting _Updated."
+      title: "General setting_Update"
       New_keyadded: "Adding a new key"
-      name_label: "NAME"
+      New3: "Adding a new key"
+      name_label: "Name 12345678"
       email_label: "E-mail address"
-      timezone_label: "Time Zone"
       language_label: "Language"
       save_button: "Save"
     profile:
