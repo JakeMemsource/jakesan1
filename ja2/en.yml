@@ -1,0 +1,35 @@
+en:
+  user_settings:
+    title: "User Settings"
+    general:
+      title: "General setting _Updated."
+      New_keyadded: "Adding a new key"
+      name_label: "NAME"
+      email_label: "E-mail address"
+      timezone_label: "Time Zone"
+      language_label: "Language"
+      save_button: "Save"
+    profile:
+      title: "Profile Settings 123"
+      bio_label: "self-introduction"
+      avatar_label: "Profile image"
+      social_links_label: "Social link"
+      save_button: "Save"
+    security:
+      title: "Security Settings"
+      password_label: "Password"
+      password_confirmation_label: "Confirm Password"
+      two_factor_auth_label: "Two-stage certification"
+      save_button: "Save"
+    notifications:
+      title: "Notification Settings"
+      email_notifications_label: "E-mail notification"
+      push_notifications_label: "Push notification"
+      frequency_label: "Frequency"
+      save_button: "Save"
+    billing:
+      title: "Billing settings"
+      plan_label: "Plan"
+      payment_method_label: "Payment method"
+      billing_address_label: "Billing address"
+      save_button: "Save"
