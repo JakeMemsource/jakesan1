@@ -2,14 +2,15 @@ ja:
   user_settings:
     title: "ユーザー設定"
     general:
-      title: "一般設定"
+      title: "一般設定＿更新しました。"
+      New_keyadded: "新しいキー追加"
       name_label: "名前"
       email_label: "メールアドレス"
       timezone_label: "タイムゾーン"
       language_label: "言語"
       save_button: "保存する"
     profile:
-      title: "プロフィール設定"
+      title: "プロフィール設定１２３"
       bio_label: "自己紹介"
       avatar_label: "プロフィール画像"
       social_links_label: "ソーシャルリンク"
