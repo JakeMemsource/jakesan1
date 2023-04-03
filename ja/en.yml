@@ -2,8 +2,8 @@ en:
   home:
     title: "Welcome to MyApp"
     subtitle: "The best way to manage tasks"
-    NewKey: "additional part"
-    call_to_action: "start 456"
+    NewKey: "added key"
+    call_to_action: "start789"
     features:
       - title: "Simple and intuitive interface"
         description: "MyApp is designed to be easy to use, even for first-time users."
