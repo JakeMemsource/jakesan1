@@ -2,8 +2,8 @@ ja:
   home:
     title: "MyAppへようこそ_更新"
     subtitle: "タスク管理の最高の方法"
-    NewKey: "追加部分"
-    call_to_action: "はじめる456"
+    NewKey: "追加されたキー"
+    call_to_action: "はじめる789"
     features:
       - title: "シンプルで直感的なインターフェース"
         description: "MyAppは、初めてのユーザーでも簡単に使用できるように設計されています。"
