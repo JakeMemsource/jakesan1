@@ -11,8 +11,10 @@
     <string name="M_Test_Key_game_content_04">メッセージをもっと見る</string>
     <string name="M_Test_Key_game_content_05">キーが1つ追加されます</string>
     <string name="M_Test_Key_game_content_06">これは最新キー。</string>
+    <string name="M_Test_Key_game_content_07">キーが1つ追加されます</string>
     <string name="Memsource logo">メムソース</string>
     <string name="Message">あなたのお宅をより美しく！</string>
+    <string name="Message2">テスト2</string>
     <string name="pwd">パスワード</string>
     <string name="Start">スタート</string>
 </resources>
