@@ -4,7 +4,8 @@ en:
     general:
       title: "General setting_Update"
       New_keyadded: "Adding a new key"
-      New3: "Adding a new key"
+      New4: "Adding a new key"
+      New5: "New key update"
       name_label: "Name 12345678"
       email_label: "E-mail address"
       language_label: "Language"
