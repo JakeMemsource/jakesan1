@@ -18,3 +18,5 @@ phrase:
     targets:
 
     - file: "./Sample_<locale_code>.xml"
+      params:
+        locale_id: a9e9caa3f256b37614ab465b49b451eb
