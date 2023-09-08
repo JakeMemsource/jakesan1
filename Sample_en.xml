@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="Login">Email</string>
-    <string name="M_Test_Key_001">Hello, this sample file is only for Phrase Demo Use.</string>
+    <string name="M_Test_Key_01">Hello, this sample file is only for Phrase Demo Use.</string>
     <string name="M_Test_Key_02">Awesome. Nice job. This really helps! Need anything new? I have all of them! I don\u0026apos;t need them.</string>
     <string name="M_Test_Key_03">The game is a grand breaking survival shooter game available on cellphone.</string>
     <string name="M_Test_Key_game_content_0">Additional key and message.</string>
