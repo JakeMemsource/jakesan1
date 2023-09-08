@@ -10,9 +10,6 @@ phrase:
     sources:
 
     - file: "./Sample_<locale_code>.xml"
-      params:
-        locale_id: c8f305b04d1ec15bdddc36b0f7d13765
-        update_translations: true
 
   pull:
 
