@@ -3,10 +3,11 @@ ja:
     title: "ユーザー設定"
     general:
       title: "一般設定＿更新"
-      New_keyadded: "新しいキー追加１２３"
-      New3: "新しいキー追加"
+      New_keyadded: "新しいキー追加アップデート"
+      New3: "更新されました新しいキー追加"
       New5: "新しいをさらに更新￥"
       New6: "キー6番目２３４５"
+      New7: "キー7番目"
       name_label: "名前12345678"
       email_label: "メールアドレス"
       language_label: "言語"
