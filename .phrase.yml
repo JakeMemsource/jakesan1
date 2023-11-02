@@ -12,6 +12,7 @@ phrase:
     - file: "./Sample_en.xml"
       params:
         locale_id: c8f305b04d1ec15bdddc36b0f7d13765
+        update_translations: true
 
   pull:
 
