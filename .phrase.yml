@@ -21,3 +21,5 @@ phrase:
     - file: "./Sample_ja.xml"
       params:
         locale_id: a9e9caa3f256b37614ab465b49b451eb
+        encoding: UTF-8
+        include_unverified_translations: true
