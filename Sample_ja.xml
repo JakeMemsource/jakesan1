@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="Login">メール</string>
+    <string name="Login">電子メール</string>
     <string name="M_Test_Key_01">こんにちは、 {username} 。このサンプル ファイルはフレーズ文字列のデモ専用です。</string>
-    <string name="M_Test_Key_02">素晴らしい。良くやった。これは本当に助かります！なにかほしい？全部持ってるよ！もうそれらは必要ありません。</string>
+    <string name="M_Test_Key_02">素晴らしい。良くやった。これは本当に助かります！なにかほしい？全部持ってるよ！それらは必要ありません。</string>
     <string name="M_Test_Key_03">このゲームは、携帯電話で利用できる画期的なサバイバル シューティング ゲームです。</string>
     <string name="M_Test_Key_game_content_0">追加のキーとメッセージ。</string>
     <string name="M_Test_Key_game_content_01">新シーズンは03/08/2020 18:00 GMT+ 8から始まります</string>
-    <string name="M_Test_Key_game_content_02">こちらは[FFC500]テスト用![-]</string>
+    <string name="M_Test_Key_game_content_02">ああ・・・こちらは[FFC500]テスト用![-]</string>
     <string name="M_Test_Key_game_content_03">追加のキーとメッセージ。</string>
     <string name="M_Test_Key_game_content_04">さらにメッセージ。</string>
     <string name="M_Test_Key_game_content_05">追加キー一点</string>
