@@ -5,16 +5,19 @@
 </string>
 <!-- Example placeholder for a URL -->
 <string name="app_homeurl">
-    Visit us at <xliff:g
+    こちらのサイトからどうぞ<xliff:g
     id="application_homepage">http://my/app/home.html</xliff:g>
 </string>
 <!-- Example placeholder for a name -->
 <string name="prod_name">
-    Learn more at <xliff:g id="prod_gamegroup">Game Group</xliff:g>
+    詳細はこちら <xliff:g id="prod_gamegroup">Game Group</xliff:g>
 </string>
 <!-- Example placeholder for a literal -->
 <string name="promo_message">
     Please use the "<xliff:g id="promotion_code">ABCDEFG</xliff:g>" to get a discount.
 </string>
-...
+<!-- Please translate in a friendly manner -->
+<string name="Greeting">
+    こんにちは。よろしくお願いします。
+</string>
 </resources>
