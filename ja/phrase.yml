@@ -1,0 +1,25 @@
+phrase:
+  access_token: "b7fc60cd08e349735c546d147186900a91ec509bf763e515ea531affb3cd4c29"
+  
+  project_id: ""
+
+  file_format: "xml"
+
+  push:
+
+    sources:
+
+    - file: "./Sample_en.xml"
+      params:
+        locale_id: c8f305b04d1ec15bdddc36b0f7d13765
+        update_translations: true
+
+  pull:
+
+    targets:
+
+    - file: "./Sample_ja.xml"
+      params:
+        locale_id: a9e9caa3f256b37614ab465b49b451eb
+        encoding: UTF-8
+        include_unverified_translations: true
